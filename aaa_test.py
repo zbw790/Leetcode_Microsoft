@@ -1,2 +1,3 @@
-x = "ab"
-print(len(x))
+x = []
+if x == []:
+    print("x is None")

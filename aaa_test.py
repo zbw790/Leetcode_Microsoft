@@ -1,2 +1,5 @@
-for i in range(5):
-    print(i)
+s = "abcdefg"
+
+for i in range(len(s)):
+    print(s[0:i + 1])
+
